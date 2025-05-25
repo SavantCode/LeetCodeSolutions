@@ -13,6 +13,52 @@
  *     }
  * }
  */
+
+
+
+// -----------------------------------------Method 2-----------------------------------------
+// Time Complexity: O(n)
+// You visit every node once.
+
+// Space Complexity: O(n)
+// Due to the queue which can hold up to one full level of nodes.
+
+class Solution {
+    public int findBottomLeftValue(TreeNode root) {
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        int leftmost = root.val;
+
+        while (!queue.isEmpty()) {
+            int levelSize = queue.size();
+
+            for (int i = 0; i < levelSize; i++) {
+                TreeNode current = queue.poll();
+
+                if (i == 0) {
+                    leftmost = current.val;
+                }
+
+                if (current.left != null) queue.offer(current.left);
+                if (current.right != null) queue.offer(current.right);
+            }
+        }
+
+        return leftmost;
+    }
+}
+
+
+
+
+/*
+-----------------------------------------Method 1-----------------------------------------
+//Time Complexity: O(n)
+// Let n = total number of nodes in the tree.
+
+// Space Complexity: O(n)
+// Due to the result list + BFS queue.
+
 class Solution {
     public int findBottomLeftValue(TreeNode root) {
         List<List<Integer>> result = levelOrder(root);
@@ -22,8 +68,6 @@ class Solution {
     
 
     }
-    
-
     private List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
 
@@ -62,3 +106,4 @@ class Solution {
         return result;
     }
 }
+*/
