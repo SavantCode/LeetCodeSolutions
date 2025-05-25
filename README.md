@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
+| [0437-path-sum-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0437-path-sum-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Sorting
 |  |
@@ -39,8 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
+| [0437-path-sum-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
+| [0437-path-sum-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
