@@ -1,4 +1,7 @@
+// ✅ Iterative with stack is best solution among all
+
 class Solution {
+    //morris traversal
     public int kthSmallest(TreeNode root, int k) {
         TreeNode current = root;
         int count = 0;
@@ -38,6 +41,7 @@ class Solution {
 
 /*
 class Solution {
+    //✅ Iterative with stack
     public int kthSmallest(TreeNode root, int k) {
         Stack<TreeNode> stack = new Stack<>();
         TreeNode current = root;
