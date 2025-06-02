@@ -16,9 +16,14 @@
 class Solution {
     private TreeNode prev = null;
 
-    int minDiff = Integer.MAX_VALUE;
+    private int minDiff = Integer.MAX_VALUE;
 
     public int minDiffInBST(TreeNode root) {
+        // TreeNode prev = null;
+        // int minDiff = Integer.MAX_VALUE;
+        // re- initialise the variables if leetcode doesnt recognisess
+        
+        
         inorderTraversal(root);
         return minDiff;
     }
@@ -30,7 +35,7 @@ class Solution {
         inorderTraversal(root.left);
 
         if (prev != null) {
-            minDiff = Math.min(minDiff, root.val - prev.val);
+            minDiff = Math.min(minDiff, Math.abs(root.val - prev.val) );
         }
         prev = root;
 
