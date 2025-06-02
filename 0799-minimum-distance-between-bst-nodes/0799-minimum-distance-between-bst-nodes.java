@@ -50,4 +50,20 @@ h-> heght of tree
 In the worst case:
 If the tree is completely skewed (like a linked list), h = n → O(n)
 If the tree is balanced, h = log n → O(log n)
+
+
+
+
+Difference between static and instance variables??????
+
+Instance variables--> (like private int minDiff) belong to each object (instance) of the class.
+Every time you create a new Solution object, it gets its own separate copy.
+
+Static variables --> belong to the class itself, not any one instance.
+There is only one shared copy of a static variable no matter how many objects you create.
+
+
+
+
+
 */
