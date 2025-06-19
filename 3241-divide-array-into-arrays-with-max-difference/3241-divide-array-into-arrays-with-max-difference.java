@@ -28,6 +28,8 @@ class Solution {
         }
 
         return result;// We're returning a new 2D array--> SC: O(n)
+        //space complexity is O(n) because of the output array.
+        // If you want to count everything (including output), it's O(n). otherwise O(1)
     }
 }
 
