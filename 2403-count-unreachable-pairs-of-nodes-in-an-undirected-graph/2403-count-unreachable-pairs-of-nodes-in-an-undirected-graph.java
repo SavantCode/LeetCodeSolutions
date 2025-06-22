@@ -1,32 +1,28 @@
-import java.util.*;
-
-public class Solution {
-
+class Solution {
+    // Step -1: Copy and paste DSU code
     int[] parent;
     int[] rank;
 
-    // Find function with path compression
-    public int find(int x) {
-        if (parent[x] == x)
+    int find(int x) {
+        if (x == parent[x])
             return x;
         return parent[x] = find(parent[x]);
     }
 
-    // Union function with union by rank
-    public void union(int x, int y) {
-        int xParent = find(x);
-        int yParent = find(y);
+    void union(int x, int y) {
+        int x_parent = find(x);
+        int y_parent = find(y);
 
-        if (xParent == yParent)
+        if (x_parent == y_parent)
             return;
 
-        if (rank[xParent] > rank[yParent]) {
-            parent[yParent] = xParent;
-        } else if (rank[xParent] < rank[yParent]) {
-            parent[xParent] = yParent;
+        if (rank[x_parent] > rank[y_parent]) {
+            parent[y_parent] = x_parent;
+        } else if (rank[x_parent] < rank[y_parent]) {
+            parent[x_parent] = y_parent;
         } else {
-            parent[xParent] = yParent;
-            rank[yParent]++;
+            parent[x_parent] = y_parent;
+            rank[y_parent]++;
         }
     }
 
@@ -34,32 +30,30 @@ public class Solution {
         parent = new int[n];
         rank = new int[n];
 
-        // Initialize DSU
         for (int i = 0; i < n; i++) {
             parent[i] = i;
-            rank[i] = 0;
         }
 
-        // Union all connected pairs
+        // Step -2: Making components
         for (int[] edge : edges) {
             int u = edge[0];
             int v = edge[1];
-            union(u, v);
+            union(u, v); // You missed this in C++ version originally
         }
 
-        // Count size of each connected component
-        Map<Integer, Integer> componentSize = new HashMap<>();
+        // Step -3: Map for storing "parent(component)" ---> size of component
+        Map<Integer, Integer> mp = new HashMap<>();
         for (int i = 0; i < n; i++) {
-            int root = find(i);
-            componentSize.put(root, componentSize.getOrDefault(root, 0) + 1);
+            int papaji = find(i); // parent or representative
+            mp.put(papaji, mp.getOrDefault(papaji, 0) + 1);
         }
 
-        // Calculate the number of unreachable pairs
+        // Step -4: Find result from map
         long result = 0;
         long remainingNodes = n;
 
-        for (int size : componentSize.values()) {
-            result += (long) size * (remainingNodes - size);
+        for (int size : mp.values()) {
+            result += size * (remainingNodes - size);
             remainingNodes -= size;
         }
 
