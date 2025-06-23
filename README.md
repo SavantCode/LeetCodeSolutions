@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
