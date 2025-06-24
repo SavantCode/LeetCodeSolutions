@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -233,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2202-sum-of-k-mirror-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
