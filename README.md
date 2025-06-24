@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
