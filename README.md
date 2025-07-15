@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3396-valid-word) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Backtracking
 |  |
