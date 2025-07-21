@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
