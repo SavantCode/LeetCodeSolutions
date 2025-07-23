@@ -1,26 +1,28 @@
 class Solution {
     public long countSubarrays(int[] nums, int minK, int maxK) {
         int n = nums.length;
-        int lastmin = -1;
-        int lastmax = -1;
-        int lastInvalid = -1;
-        long count = 0; // long to avoid overflow
+        long count = 0;
+
+        int lastMin = -1, lastMax = -1;
+        int leftBound = -1;
 
         for (int i = 0; i < n; i++) {
-            if (nums[i] < minK || nums[i] > maxK) {
-                lastInvalid = i;
+            int num = nums[i];
+
+            if (num < minK || num > maxK) {
+                // Reset bounds if invalid element found
+                leftBound = i;
+                lastMin = -1;
+                lastMax = -1;
             }
 
-            if (nums[i] == minK) {
-                lastmin = i;
-            }
+            if (num == minK) lastMin = i;
+            if (num == maxK) lastMax = i;
 
-            if (nums[i] == maxK) {
-                lastmax = i;
+            // Valid subarray only if both minK and maxK have been seen
+            if (lastMin != -1 && lastMax != -1) {
+                count += Math.max(0, Math.min(lastMin, lastMax) - leftBound);
             }
-
-            int validPos = Math.min(lastmin, lastmax);
-            count += Math.max(0, validPos - lastInvalid);
         }
 
         return count;
