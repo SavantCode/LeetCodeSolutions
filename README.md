@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3194-find-words-containing-character](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -284,8 +285,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
