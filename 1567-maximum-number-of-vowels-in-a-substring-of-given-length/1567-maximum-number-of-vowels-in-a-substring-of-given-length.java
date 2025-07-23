@@ -1,35 +1,33 @@
 class Solution {
+    public boolean isVowel(char ch) {
+        return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
+    }
+
     public int maxVowels(String s, int k) {
-        int count = 0;   // Current count of vowels in the window
-        int maxVo = 0;   // Maximum vowels found in any window
         int n = s.length();
+        int maxV = 0;
+        int count = 0;
+        int i = 0, j = 0;
 
-        // First, count vowels in the initial window of size k
-        for (int i = 0; i < k; i++) {
-            if ("aeiou".indexOf(s.charAt(i)) != -1) {
+        while (j < n) {
+            if (isVowel(s.charAt(j))) {
                 count++;
             }
-        }
-        maxVo = count;
 
-        // Slide the window from i = k to end of string
-        for (int i = k; i < n; i++) {
-            // Remove the vowel going out of the window
-            if ("aeiou".indexOf(s.charAt(i - k)) != -1) {
-                count--;
+            if (j - i + 1 == k) {
+                maxV = Math.max(maxV, count);
+                if (isVowel(s.charAt(i))) {
+                    count--;
+                }
+                i++;
             }
-            // Add the vowel coming into the window
-            if ("aeiou".indexOf(s.charAt(i)) != -1) {
-                count++;
-            }
-            // Update max vowels count
-            maxVo = Math.max(maxVo, count);
+
+            j++;
         }
 
-        return maxVo;
+        return maxV;
     }
 }
-// | **Complexity**       | **Explanation**                                      | **Value** |
-// | -------------------- | ---------------------------------------------------- | --------- |
-// | **Time Complexity**  | Single pass over the string, constant time checks    | O(n)      |
-// | **Space Complexity** | Only uses fixed number of variables (counters, etc.) | O(1)      |
+
+// Time Complexity: O(n)
+// Space Complexity: O(1)
