@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0463-island-perimeter](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0733-flood-fill) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
@@ -323,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
