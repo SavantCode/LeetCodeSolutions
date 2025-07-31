@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -330,5 +332,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
