@@ -1,69 +1,31 @@
 import java.util.*;
 
 class Solution {
-    private List<String> result;
-    private int rows, cols;
-    private final int[][] directions = {{-1, 0}, {1, 0}, {0, 1}, {0, -1}};
-
-    // Trie node class
+    // TrieNode class for internal use
     class TrieNode {
-        boolean endOfWord;
-        TrieNode[] children;
-        String word;
-
-        TrieNode() {
-            endOfWord = false;
-            children = new TrieNode[26];
-            word = "";
-        }
+        TrieNode[] children = new TrieNode[26];
+        boolean endOfWord = false;
+        String word = "";
     }
 
-    // Build the Trie
-    private void insert(TrieNode root, String word) {
-        TrieNode current = root;
-        for (char ch : word.toCharArray()) {
-            int index = ch - 'a';
-            if (current.children[index] == null) {
-                current.children[index] = new TrieNode();
-            }
-            current = current.children[index];
-        }
-        current.endOfWord = true;
-        current.word = word;
-    }
+    // Directions for DFS (up, down, left, right)
+    private final int[][] directions = {
+        {-1, 0}, {1, 0}, {0, -1}, {0, 1}
+    };
 
-    // DFS search
-    private void dfs(char[][] board, int i, int j, TrieNode node) {
-        if (i < 0 || i >= rows || j < 0 || j >= cols || board[i][j] == '$') {
-            return;
-        }
+    private int rows, cols;
+    private List<String> result;
 
-        char ch = board[i][j];
-        TrieNode next = node.children[ch - 'a'];
-        if (next == null) return;
-
-        if (next.endOfWord) {
-            result.add(next.word);
-            next.endOfWord = false; // Avoid duplicates
-        }
-
-        board[i][j] = '$'; // Mark visited
-        for (int[] dir : directions) {
-            dfs(board, i + dir[0], j + dir[1], next);
-        }
-        board[i][j] = ch; // Backtrack
-    }
-
+    // Entry method
     public List<String> findWords(char[][] board, String[] words) {
-        result = new ArrayList<>();
         rows = board.length;
         cols = board[0].length;
+        result = new ArrayList<>();
 
-        TrieNode root = new TrieNode();
-        for (String word : words) {
-            insert(root, word);
-        }
+        // Build Trie
+        TrieNode root = buildTrie(words);
 
+        // Start DFS from every cell
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 char ch = board[i][j];
@@ -74,5 +36,48 @@ class Solution {
         }
 
         return result;
+    }
+
+    // Build a Trie from given words
+    private TrieNode buildTrie(String[] words) {
+        TrieNode root = new TrieNode();
+        for (String word : words) {
+            TrieNode current = root;
+            for (char ch : word.toCharArray()) {
+                int index = ch - 'a';
+                if (current.children[index] == null) {
+                    current.children[index] = new TrieNode();
+                }
+                current = current.children[index];
+            }
+            current.endOfWord = true;
+            current.word = word;
+        }
+        return root;
+    }
+
+    // DFS to explore board and match Trie paths
+    private void dfs(char[][] board, int i, int j, TrieNode node) {
+        char ch = board[i][j];
+        TrieNode current = node.children[ch - 'a'];
+        if (current == null) return;
+
+        // Word found
+        if (current.endOfWord) {
+            result.add(current.word);
+            current.endOfWord = false; // Avoid duplicates
+        }
+
+        board[i][j] = '$'; // Mark as visited
+
+        for (int[] dir : directions) {
+            int x = i + dir[0];
+            int y = j + dir[1];
+            if (x >= 0 && x < rows && y >= 0 && y < cols && board[x][y] != '$') {
+                dfs(board, x, y, current);
+            }
+        }
+
+        board[i][j] = ch; // Backtrack
     }
 }
