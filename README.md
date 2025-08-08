@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
