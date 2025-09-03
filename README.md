@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0826-soup-servings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0463-island-perimeter) |
