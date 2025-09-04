@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Enumeration
