@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Enumeration
 |  |
