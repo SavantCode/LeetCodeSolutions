@@ -1,83 +1,90 @@
-import java.util.Stack;  // Required for using Stack class
+import java.util.Stack;
 
-// Class to implement a Queue using two Stacks
 class MyQueue {
-    Stack<Integer> st = new Stack<>();      // Main stack to hold elements
-    Stack<Integer> helper = new Stack<>();  // Helper stack used during pop and peek operations
+    Stack<Integer> st = new Stack<>();      // Main stack to hold elements in queue order (front at top)
+    Stack<Integer> helper = new Stack<>();  // Helper stack used to reorder elements during push
 
-    // Constructor (optional since nothing special is needed at construction)
+    // Constructor: Initializes an empty queue
     public MyQueue() {
     }
-
-    // Enqueue operation: Push element to the back of the queue
+    
+    /**
+     * Push element x to the back of the queue.
+     * 
+     * Since we're implementing queue using stacks, 
+     * we need to maintain the order so that front of the queue
+     * is always on top of 'st'.
+     * 
+     * Steps:
+     * 1. Move all elements from 'st' to 'helper' (reversing the order).
+     * 2. Push the new element 'x' into the now empty 'st'.
+     * 3. Move all elements back from 'helper' to 'st' to restore order.
+     * 
+     * This way, the newest element is at the bottom of 'st',
+     * and the oldest (front) element is at the top.
+     */
     public void push(int x) {
-        st.push(x); // Simply push to main stack
+        if(st.size() == 0) {
+            // If stack is empty, simply push the element
+            st.push(x);
+        } else {
+            // Move all elements from st to helper stack
+            while(st.size() > 0) {
+                helper.push(st.pop());
+            }
+            // Push new element into empty st
+            st.push(x);
+            // Move elements back from helper to st
+            while(helper.size() > 0) {
+                st.push(helper.pop());
+            }
+        }
     }
-
-    // Dequeue operation: Remove and return the front element of the queue
+    
+    /**
+     * Removes the element from in front of queue and returns it.
+     * 
+     * Since 'st' always has the front element at the top, simply pop from 'st'.
+     */
     public int pop() {
-        // Transfer all elements from 'st' to 'helper' except the last one
-        while (st.size() > 1) {
-            helper.push(st.pop());  // Move elements from 'st' to 'helper'
-        }
-
-        // Now, 'st' has only one element, which is the front of the queue
-        int x = st.pop();  // Remove and store that front element
-
-        // Move elements back from 'helper' to 'st' to restore original order
-        while (helper.size() > 0) {
-            st.push(helper.pop());
-        }
-
-        return x;  // Return the dequeued front element
+        return st.pop();
     }
-
-    // Peek operation: Return (but do not remove) the front element of the queue
+    
+    /**
+     * Get the front element.
+     * 
+     * Since 'st' always has the front element at the top, simply peek the top.
+     */
     public int peek() {
-        // Move all elements except the last to helper stack
-        while (st.size() > 1) {
-            helper.push(st.pop());
-        }
-
-        // Peek at the last remaining element (front of queue)
-        int x = st.peek();
-
-        // Put everything back to restore the stack to original order
-        while (helper.size() > 0) {
-            st.push(helper.pop());
-        }
-
-        return x;  // Return the front element without removing it
+        return st.peek();
     }
-
-    // Check if the queue is empty
+    
+    /**
+     * Returns whether the queue is empty.
+     * 
+     * Checks if 'st' is empty.
+     */
     public boolean empty() {
-        // If main stack is empty, the queue is empty
-        if (st.size() == 0)
-            return true;
-        else
-            return false;
+        return st.isEmpty();
     }
 }
 
 /**
  * Your MyQueue object will be instantiated and called as such:
- * MyQueue obj = new MyQueue();         // Creates a new queue
- * obj.push(x);                         // Pushes x to the queue
- * int param_2 = obj.pop();             // Removes and returns front element
- * int param_3 = obj.peek();            // Returns front element without removing
- * boolean param_4 = obj.empty();       // Checks if queue is empty
+ * MyQueue obj = new MyQueue();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.peek();
+ * boolean param_4 = obj.empty();
  */
+
 
 /*
-| Operation      | Time Complexity | Space Complexity | Explanation                                                 |
-| -------------- | --------------- | ---------------- | ----------------------------------------------------------- |
-| `push(x)`      | **O(1)**        | **O(1)**         | Just pushes `x` to the main stack `st`                      |
-| `pop()`        | **O(n)**        | **O(n)**         | Moves `n-1` elements to `helper`, pops last, restores stack |
-| `peek()`       | **O(n)**        | **O(n)**         | Same as `pop()` but doesn't remove last element             |
-| `empty()`      | **O(1)**        | **O(1)**         | Checks if `st` is empty                                     |
-| **Overall SC** | —               | **O(n)**         | All elements are stored in `st`; `helper` is temporary      |
+| Operation | Time Complexity | Space Complexity |
+| --------- | --------------- | ---------------- |
+| `push(x)` | O(n)            | O(n) auxiliary   |
+| `pop()`   | O(1)            | O(1)             |
+| `peek()`  | O(1)            | O(1)             |
+| `empty()` | O(1)            | O(1)             |
 
-
-
- */
+*/
