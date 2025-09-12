@@ -68,3 +68,16 @@ class MyQueue {
  * int param_3 = obj.peek();            // Returns front element without removing
  * boolean param_4 = obj.empty();       // Checks if queue is empty
  */
+
+/*
+| Operation      | Time Complexity | Space Complexity | Explanation                                                 |
+| -------------- | --------------- | ---------------- | ----------------------------------------------------------- |
+| `push(x)`      | **O(1)**        | **O(1)**         | Just pushes `x` to the main stack `st`                      |
+| `pop()`        | **O(n)**        | **O(n)**         | Moves `n-1` elements to `helper`, pops last, restores stack |
+| `peek()`       | **O(n)**        | **O(n)**         | Same as `pop()` but doesn't remove last element             |
+| `empty()`      | **O(1)**        | **O(1)**         | Checks if `st` is empty                                     |
+| **Overall SC** | —               | **O(n)**         | All elements are stored in `st`; `helper` is temporary      |
+
+
+
+ */
