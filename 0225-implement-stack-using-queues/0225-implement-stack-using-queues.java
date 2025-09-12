@@ -8,28 +8,21 @@ class MyStack {
     }
 
     public void push(int x) {
-        q.add(x);
+        if(q.size() == 0) q.add(x);
+        else{
+            q.add(x);
+            for(int i  = 1; i <=q.size()-1; i++){
+                q.add(q.remove());
+            }
+        }
     }
 
     public int pop() {
-        int size = q.size();
-        for (int i = 0; i < size - 1; i++) {
-            q.add(q.remove());
-        }
-
-        return q.remove();  // Remove the "top" element
+        return q.remove();
     }
 
     public int top() {
-        int size = q.size();
-        for (int i = 0; i < size - 1; i++) {
-            q.add(q.remove());
-        }
-
-        int top = q.peek();  // Peek the front element
-        q.add(q.remove());   // Put it back to maintain order
-
-        return top;
+        return q.peek();
     }
 
     public boolean empty() {
