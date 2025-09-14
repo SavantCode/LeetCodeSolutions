@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2479-meeting-rooms-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0648-replace-words) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0648-replace-words) |
 | [0940-fruit-into-baskets](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [2479-meeting-rooms-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
 ## Shortest Path
@@ -420,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
