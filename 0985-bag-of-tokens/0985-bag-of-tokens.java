@@ -1,35 +1,37 @@
-//T.C : O(nlogn)
+//T.C : O(nlogn) 
 //S.C : O(1)
+
 public class Solution {
+
     public int bagOfTokensScore(int[] tokens, int P) {
-        int n = tokens.length;
-        Arrays.sort(tokens);
+        Arrays.sort(tokens); // Sort tokens in ascending order to make greedy decisions
 
-        int currScore = 0;
-        int maxScore = 0;
-        int l = 0, r = n - 1;
+        int currScore = 0;  // Current score after playing some tokens
+        int maxScore = 0;   // Keep track of the maximum score achieved
+        int l = 0;          // Left pointer - used to buy score with the smallest token
+        int r = tokens.length - 1; // Right pointer - used to regain power with the largest token
 
-        // GREEDY
-        // While losing power, I will choose the smallest token
-        // While gaining power, I will choose the largest token
-
+        // Greedy approach:
+        // Use smallest token to gain score when possible
+        // If not enough power, use one score to gain back power from largest token
         while (l <= r) {
             if (P >= tokens[l]) {
+                // Sufficient power to play token face up (gain 1 score)
+                P -= tokens[l];
                 currScore++;
-                maxScore = Math.max(maxScore, currScore); // keep updating it
-                P -= tokens[l]; // choose smallest token
+                maxScore = Math.max(maxScore, currScore);
                 l++;
-
             } else if (currScore >= 1) {
+                // Not enough power, but we can trade 1 score to regain power by playing token face down
+                P += tokens[r];
                 currScore--;
-                P += tokens[r]; // choose largest token
                 r--;
-
             } else {
-                // no way further to increase score
-                return maxScore;
+                // Neither enough power nor score to make a move
+                break;
             }
         }
+
         return maxScore;
     }
 }
