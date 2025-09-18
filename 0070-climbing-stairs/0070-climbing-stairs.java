@@ -2,24 +2,25 @@
 // Time: O(n)
 // Space: O(1)
 class Solution {
-    public int climbStairs(int n) {
-         // Step 1: Handle base cases
+     public int climbStairs(int n) {
+        // Step 1: Handle small inputs
         if (n == 1 || n == 2)
             return n;
 
-        // Step 2: Use only three variables to track last two steps
-        int a = 1; // Ways to reach step 1
-        int b = 2; // Ways to reach step 2
-        int c = 0; // Variable to store result for current step
+        // Step 2: Create a DP array to store the number of ways for each step
+        int[] dp = new int[n + 1]; // dp[i] = number of ways to reach step i
 
-        // Step 3: Loop from step 3 to n
+        // Step 3: Initialize the base cases
+        dp[0] = 0; // Not really used
+        dp[1] = 1; // Only 1 way to climb 1 stair
+        dp[2] = 2; // Two ways to climb 2 stairs (1+1 or 2)
+
+        // Step 4: Fill the table iteratively
         for (int i = 3; i <= n; i++) {
-            c = a + b; // Current ways = previous two steps
-            a = b;     // Shift a to b (i.e., step i-2 becomes i-1)
-            b = c;     // Shift b to c (i.e., step i-1 becomes i)
+            dp[i] = dp[i - 1] + dp[i - 2]; // Ways to reach step i
         }
 
-        // Step 4: Return result
-        return c;
+        // Step 5: Return the result for step n
+        return dp[n];
     }
 }
