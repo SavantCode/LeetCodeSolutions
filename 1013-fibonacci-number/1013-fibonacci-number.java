@@ -1,25 +1,20 @@
 class Solution {
-    int[] t = new int[31];  // to store memoized results
-
     public int fib(int n) {
-        // Initialize the array with -1 (similar to memset in C++)
-        for (int i = 0; i < t.length; i++) {
-            t[i] = -1;
-        }
-
-        return solve(n);
-    }
-
-    private int solve(int n) {
         if (n <= 1) {
             return n;
         }
 
-        if (t[n] != -1) {
-            return t[n];
+        // Only keep track of the last two Fibonacci numbers
+        int a = 0; // fib(0)
+        int b = 1; // fib(1)
+        int c = 0; // will hold current Fibonacci number
+
+        for (int i = 2; i <= n; i++) {
+            c = a + b; // current Fibonacci number
+            a = b;     // shift window
+            b = c;
         }
 
-        t[n] = solve(n - 1) + solve(n - 2);
-        return t[n];
+        return c;
     }
 }
