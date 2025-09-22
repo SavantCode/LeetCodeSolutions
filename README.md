@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
