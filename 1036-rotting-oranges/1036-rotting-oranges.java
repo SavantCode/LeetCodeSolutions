@@ -37,8 +37,8 @@ class Solution {
 
             for (int i = 0; i < size; i++) {
                 int[] current = queue.poll();
-                int r = current[0];
-                int c = current[1];
+                int r = current[0]; // r: Row index of orange
+                int c = current[1]; // c: Column index of orange
 
                 // Check all 4 directions
                 for (int[] dir : directions) {
