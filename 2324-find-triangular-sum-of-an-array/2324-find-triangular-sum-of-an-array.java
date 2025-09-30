@@ -1,17 +1,20 @@
-// Time Complexity: O(n²)
-// Time Complexity: O(n)
+
+
 class Solution {
     public int triangularSum(int[] nums) {
         int n = nums.length;
-        return triangle(nums, n);
-    }
 
-    private int triangle(int[] nums, int n) {
-        if (n == 1) return nums[0]; // fixed from n == 0 to n == 1
+        return traingle(nums, n);
+
+        
+        
+    }
+    private int traingle(int[] nums, int n){
+        if(n == 1) return nums[0];
         int[] newArr = new int[n - 1];
-        for (int i = 0; i < n - 1; i++) { // fixed loop bounds
-            newArr[i] = (nums[i] + nums[i + 1]) % 10; // fixed index and parentheses
+        for(int i = 0; i < n-1; i++){
+            newArr[i] = (nums[i] + nums[i+1]) % 10;
         }
-        return triangle(newArr, n - 1); // added return
+        return traingle(newArr, n-1);
     }
 }
