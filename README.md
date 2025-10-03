@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0463-island-perimeter](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0542-01-matrix) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0733-flood-fill) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
