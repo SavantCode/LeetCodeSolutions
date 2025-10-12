@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3336-water-bottles-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Linked List
 |  |
 | ------- |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -512,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
