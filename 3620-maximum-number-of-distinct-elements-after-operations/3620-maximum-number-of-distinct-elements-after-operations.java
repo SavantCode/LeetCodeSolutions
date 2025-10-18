@@ -1,29 +1,21 @@
-//Approach - Greedily sorting and checking each element
-//T.C : O(nlogn)
-//S.C : O(1)
+// Time Complexity: O(n log n) due to sorting  
+// Space Complexity: O(1) extra space
+
 class Solution {
     public int maxDistinctElements(int[] nums, int k) {
-        int n = nums.length;
-
         Arrays.sort(nums);
+        int ans = 0;
+        long prev = Long.MIN_VALUE;
 
-        int count = 0;
-        int prev = Integer.MIN_VALUE;
-
-        for (int i = 0; i < n; i++) {
-            int minVal = nums[i] - k;
-
-            if (prev < minVal) {
-                // choose nums[i] - k
-                prev = minVal;
-                count++;
-            } else if (prev < nums[i] + k) {
-                // choose next available distinct value greater than prev
-                prev = prev + 1;
-                count++;
+        for (int x : nums) {
+            if (prev < (long)x + k) {
+                long cur = Math.max(prev + 1, (long)x - k);
+                cur = Math.min(cur, (long)x + k);
+                prev = cur;
+                ans++;
             }
+            // else: skip this x because it cannot help increase distinct count
         }
-
-        return count;
+        return ans;
     }
 }
