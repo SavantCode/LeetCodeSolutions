@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## String
 |  |
 | ------- |
