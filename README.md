@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
