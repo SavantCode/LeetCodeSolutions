@@ -1,40 +1,41 @@
-// Approach (Simple Simulation)
-//T.C. : O(n) for Bank(), O(1) for withdraw(), transfer() and deposit()
-//S.C. : O(n) for storing balance for each object
 class Bank {
-    private long[] balance;
-    private int n;
+    private long[] balance; // ✅ Class field
 
     public Bank(long[] balance) {
-        this.balance = balance;
-        this.n = balance.length;
+        this.balance = balance; // ✅ Store initial balances
     }
 
     public boolean transfer(int account1, int account2, long money) {
-        if (account1 > n || account2 > n || balance[account1 - 1] < money) {
-            return false;
-        }
+        // ✅ Validate account numbers
+        if (!isValid(account1) || !isValid(account2)) return false;
 
+        // ✅ Check if account1 has enough money
+        if (balance[account1 - 1] < money) return false;
+
+        // ✅ Perform transfer
         balance[account1 - 1] -= money;
         balance[account2 - 1] += money;
         return true;
     }
 
     public boolean deposit(int account, long money) {
-        if (account > n) {
-            return false;
-        }
+        if (!isValid(account)) return false;
 
         balance[account - 1] += money;
         return true;
     }
 
     public boolean withdraw(int account, long money) {
-        if (account > n || balance[account - 1] < money) {
-            return false;
-        }
+        if (!isValid(account)) return false;
+
+        if (balance[account - 1] < money) return false;
 
         balance[account - 1] -= money;
         return true;
+    }
+
+    // ✅ Helper method to check valid account range
+    private boolean isValid(int account) {
+        return account >= 1 && account <= balance.length;
     }
 }
