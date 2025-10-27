@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3336-water-bottles-ii) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0985-bag-of-tokens) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Enumeration
@@ -564,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
