@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Combinatorics
 |  |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3616-make-array-elements-equal-to-zero) |
