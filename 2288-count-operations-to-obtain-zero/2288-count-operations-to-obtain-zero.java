@@ -1,3 +1,6 @@
+//Space Complexity: O(1)
+// Time Complexity: O(max(num1, num2))
+
 class Solution {
     public int countOperations(int num1, int num2) {
         int nOp = 0;
