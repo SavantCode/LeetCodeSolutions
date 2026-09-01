@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Hash Table
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Combinatorics
 |  |
