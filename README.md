@@ -606,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2481-strictly-palindromic-number) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
