@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0463-island-perimeter) |
