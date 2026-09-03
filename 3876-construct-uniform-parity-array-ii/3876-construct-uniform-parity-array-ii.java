@@ -1,23 +1,22 @@
+//T.C : O(n)
+//S.C : O(1)
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        int minVal = Integer.MAX_VALUE;
-        boolean hasOdd = false;
-
+        int minEl = Integer.MAX_VALUE;
         for (int num : nums1) {
-            if (num < minVal) {
-                minVal = num;
-            }
-            if (num % 2 != 0) {
-                hasOdd = true;
-            }
+            minEl = Math.min(minEl, num);
         }
 
-        // 1. If minVal is odd, we can always make all elements odd.
-        if (minVal % 2 != 0) {
-            return true;
+        if (minEl % 2 == 1) {   // odd - then we can convert all even to odd
+            return true;        // all nums2 will be odd
         }
 
-        // 2. If minVal is even, we can only succeed if there are NO odd numbers at all.
-        return !hasOdd;
+        // check if we can make all even in nums2
+        for (int num : nums1) {
+            if (num % 2 == 1) {
+                return false;
+            }
+        }
+        return true;            // all nums2 will be even
     }
 }
