@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Linked List
 |  |
 | ------- |
