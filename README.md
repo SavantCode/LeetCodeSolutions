@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0463-island-perimeter](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0463-island-perimeter) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
+| [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 ## Simulation
 |  |
@@ -653,6 +658,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [1791-find-center-of-star-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
