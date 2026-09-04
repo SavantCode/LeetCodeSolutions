@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
+| [0851-loud-and-rich](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0851-loud-and-rich) |
 | [0917-boats-to-save-people](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0851-loud-and-rich) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0310-minimum-height-trees) |
+| [0851-loud-and-rich](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0851-loud-and-rich) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Memoization
 |  |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0797-all-paths-from-source-to-target](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0851-loud-and-rich) |
 | [1791-find-center-of-star-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
@@ -686,4 +690,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0851-loud-and-rich](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
