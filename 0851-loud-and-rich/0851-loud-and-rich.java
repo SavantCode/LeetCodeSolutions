@@ -1,3 +1,16 @@
+    //     0
+    //     ↓
+    //     1
+    //    / \
+    //   ↓   ↓
+    //   2   3
+    //      /|\
+    //     ↓ ↓ ↓
+    //     4 5 6
+    //     ↑
+    //     7
+
+
 class Solution {
 
     int dfs(List<Integer>[] adj, int[] quiet, int[] ans, int node) {
@@ -5,18 +18,18 @@ class Solution {
         // Initially assume current person is the quietest
         int x = node;
 
-        for (int i : adj[node]) {
+        for (int neighbour : adj[node]) {
 
             // If answer for this richer person
             // is not calculated yet
-            if (ans[i] == -1) {
-                dfs(adj, quiet, ans, i);
+            if (ans[neighbour] == -1) {
+                dfs(adj, quiet, ans, neighbour);
             }
 
-            // Compare the quietest person found through i
+            // Compare the quietest person found through "neighbour"
             // with the current best person
-            if (quiet[ans[i]] < quiet[x]) {
-                x = ans[i];
+            if (quiet[ans[neighbour]] < quiet[x]) {
+                x = ans[neighbour];
             }
         }
 
