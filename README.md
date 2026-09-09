@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0826-soup-servings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
