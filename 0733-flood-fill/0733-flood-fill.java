@@ -1,35 +1,85 @@
 class Solution {
-    public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
-        int iniColor = image[sr][sc];
-        int[][] ans = image;
 
-        int[] delRow = {-1, 0, +1, 0};
-        int[] delCol = {0, +1, 0, -1};
+    public class Pair {
 
-        if (iniColor != newColor) {
-            dfs(sr, sc, ans, image, newColor, delRow, delCol, iniColor);
+        int i;
+        int j;
+
+        Pair(int i, int j) {
+            this.i = i;
+            this.j = j;
         }
-
-        return ans;
     }
 
-    private void dfs(int row, int col,
-                     int[][] ans,
-                     int[][] image,
-                     int newColor, int[] delRow, int[] delCol,
-                     int iniColor) {
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
 
-        ans[row][col] = newColor;
-        int n = image.length;
-        int m = image[0].length;
-    
-        for (int i = 0; i < 4; i++) {
-            int nrow = row + delRow[i];
-            int ncol = col + delCol[i];
+        int rows = image.length;
+        int cols = image[0].length;
 
-            if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
-                image[nrow][ncol] == iniColor && ans[nrow][ncol] != newColor) {
-                dfs(nrow, ncol, ans, image, newColor, delRow, delCol, iniColor);
+        Queue<Pair> queue = new LinkedList<>();
+
+        int originalColor = image[sr][sc];
+
+        int directions[][] = {
+            {0, 1},
+            {0, -1},
+            {1, 0}, 
+            {-1, 0}
+        }; // right, left, down, up
+
+        // Important: If the original color is already the target color,
+        // we can return immediately. Otherwise BFS can keep processing
+        // unnecessarily.
+        if (originalColor == color) {
+            return image;
+        }
+
+        image[sr][sc] = color;
+
+        solve(queue, sr, sc, image, directions, color, originalColor, rows, cols);
+
+        return image;
+    }
+
+    public void solve(
+        Queue<Pair> queue,
+        int i,
+        int j,
+        int[][] image,
+        int[][] directions,
+        int color,
+        int originalColor,
+        int rows,
+        int cols
+    ) {
+
+        // Mistake: queue is Queue<int[]>, but you were trying to add Pair.
+        // Also Pair(i, j) must use the 'new' keyword.
+        queue.add(new Pair(i, j));
+
+        while (!queue.isEmpty()) {
+
+            Pair top = queue.poll();
+
+            int currRow = top.i;
+            int currCol = top.j;
+
+            for (int[] dir : directions) {
+
+                int newRow = currRow + dir[0];
+                int newCol = currCol + dir[1];
+
+                // Mistake: isSafe() was not defined.
+                // We check that the new position is inside the matrix.
+                if (newRow >= 0 && newRow < rows &&
+                    newCol >= 0 && newCol < cols &&
+                    image[newRow][newCol] == originalColor) {
+
+                    // Mark as visited by changing its color.
+                    image[newRow][newCol] = color;
+
+                    queue.add(new Pair(newRow, newCol));
+                }
             }
         }
     }
