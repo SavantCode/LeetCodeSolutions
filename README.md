@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1813-maximum-erasure-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0648-replace-words) |
 | [0940-fruit-into-baskets](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
