@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1252-break-a-palindrome](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1252-break-a-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2479-meeting-rooms-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1813-maximum-erasure-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
