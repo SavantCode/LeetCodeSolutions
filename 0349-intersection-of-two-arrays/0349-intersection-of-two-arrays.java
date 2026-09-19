@@ -1,49 +1,26 @@
-import java.util.*;
-
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        Stack<Integer> s1 = new Stack<>();
-        Stack<Integer> st2 = new Stack<>();
-
-        // Put nums1 values into s1
-        for (int value : nums1) {
-            s1.push(value);
+        HashSet<Integer> set =new HashSet<>();
+        int result[] = new int[nums2.length];
+        int j = 0;
+        for(int i=0; i<nums1.length; i++){
+             set.add(nums1[i]);
         }
 
-        // Put nums2 values into st2
-        for (int value : nums2) {
-            st2.push(value);
-        }
-
-        Stack<Integer> smaller;
-        Stack<Integer> larger;
-
-        if (s1.size() < st2.size()) {
-            smaller = s1;
-            larger = st2;
-        } else {
-            smaller = st2;
-            larger = s1;
-        }
-
-        ArrayList<Integer> list = new ArrayList<>();
-
-        // Match values from the smaller stack with the larger stack
-        while (!smaller.isEmpty()) {
-            int value = smaller.pop();
-
-            if (larger.contains(value) && !list.contains(value)) {
-                list.add(value);
+        for(int i=0; i<nums2.length; i++){
+            if(set.contains(nums2[i])){
+                result[j] = nums2[i];
+                j++;
+                set.remove(nums2[i]);
             }
         }
-
-        // Convert ArrayList<Integer> to int[]
-        int[] result = new int[list.size()];
-
-        for (int i = 0; i < list.size(); i++) {
-            result[i] = list.get(i);
+    
+    int[] finalResult = new int[j];
+        for (int i = 0; i < j; i++) {
+            finalResult[i] = result[i];
         }
 
-        return result;
+        return finalResult;
+        
     }
 }
