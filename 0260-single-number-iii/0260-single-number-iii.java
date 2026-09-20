@@ -1,22 +1,23 @@
+import java.util.HashSet;
+
 class Solution {
     public int[] singleNumber(int[] nums) {
-        int result[] = new int[2];
+        int[] result = new int[2];
         HashSet<Integer> set = new HashSet<>();
-        int idx = 0;
-        for(int val : nums){
-            
 
-            if(set.contains(val)){
-                
-                set.remove(val);
-            }else{
-                set.add(val);
+        int index = 0;
+
+        for (int value : nums) {
+            if (set.contains(value)) {
+                set.remove(value);
+            } else {
+                set.add(value);
             }
         }
 
-        for(int x : set){
-            result[idx] = x;
-            idx++;
+        for (int value : set) {
+            result[index] = value;
+            index++;
         }
 
         return result;
