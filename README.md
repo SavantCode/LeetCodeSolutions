@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0648-replace-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0648-replace-words) |
+| [0771-jewels-and-stones](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0648-replace-words) |
+| [0771-jewels-and-stones](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1096-brace-expansion-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
