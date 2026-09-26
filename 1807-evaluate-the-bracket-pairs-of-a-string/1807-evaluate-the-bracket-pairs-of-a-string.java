@@ -2,34 +2,32 @@ import java.util.*;
 
 class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
-        // 1. Populate the hash map
-        Map<String, String> map = new HashMap<>();
+        // 1. Pre-size HashMap to avoid expensive rehashing
+        Map<String, String> map = new HashMap<>(knowledge.size() * 2);
         for (List<String> pair : knowledge) {
             map.put(pair.get(0), pair.get(1));
         }
 
-        StringBuilder result = new StringBuilder();
-        StringBuilder key = new StringBuilder();
-        boolean isInsideKey = false;
+        char[] arr = s.toCharArray();
+        int n = arr.length;
+        StringBuilder result = new StringBuilder(n); // Pre-allocate capacity
 
-        // 2. Process string character by character
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-
-            if (c == '(') {
-                isInsideKey = true;
-            } else if (c == ')') {
-                isInsideKey = false;
-                // Replace key with mapped value or "?"
-                result.append(map.getOrDefault(key.toString(), "?"));
-                key.setLength(0); // Reset key buffer
-            } else {
-                if (isInsideKey) {
-                    key.append(c);
-                } else {
-                    result.append(c);
+        int i = 0;
+        while (i < n) {
+            if (arr[i] == '(') {
+                int start = i + 1;
+                // Move pointer directly to closing bracket
+                while (arr[i] != ')') {
+                    i++;
                 }
+                
+                // Construct string key only when closing bracket is reached
+                String key = new String(arr, start, i - start);
+                result.append(map.getOrDefault(key, "?"));
+            } else {
+                result.append(arr[i]);
             }
+            i++;
         }
 
         return result.toString();
