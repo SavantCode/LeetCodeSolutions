@@ -1,22 +1,23 @@
-import java.util.HashSet;
-import java.util.Set;
+import java.util.HashMap;
 
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
-        // Store all jewel characters in a Set for O(1) lookup
-        Set<Character> jewelSet = new HashSet<>();
-        for (char j : jewels.toCharArray()) {
-            jewelSet.add(j);
+        HashMap<Character, Integer> map = new HashMap<>();
+        
+        // Count frequencies of each stone
+        for (int i = 0; i < stones.length(); i++) {
+            char c = stones.charAt(i);
+            map.put(c, map.getOrDefault(c, 0) + 1);
         }
 
-        int count = 0;
-        // Count how many stones are in the jewel set
-        for (char s : stones.toCharArray()) {
-            if (jewelSet.contains(s)) {
-                count++;
-            }
+        int totalStones = 0;
+        
+        // Sum frequency for each jewel character present in the map
+        for (int i = 0; i < jewels.length(); i++) {
+            char j = jewels.charAt(i);
+            totalStones += map.getOrDefault(j, 0);
         }
 
-        return count;
+        return totalStones;
     }
 }
