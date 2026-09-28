@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search Tree
@@ -820,4 +822,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
