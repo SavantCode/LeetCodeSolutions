@@ -13,22 +13,34 @@
  *     }
  * }
  */
+//Approach - Recursively finding the best path
+//T.C : O(n)
+//S.C : O(n)
 class Solution {
-    public int maxPathSum(TreeNode root) {
-        int[] maxValue = new int[1];
-        maxValue[0] = Integer.MIN_VALUE;
-        maxPathDown(root, maxValue);
-        return maxValue[0];
+    
+    private int maxSum;
+    
+    private int solve(TreeNode root) {
+        if (root == null) {
+            return 0;
+        }
+        
+        int left = solve(root.left);
+        int right = solve(root.right);
+        
+        int neecheHiMilgayaAnswer = left + right + root.val; // (1)
+        int koiEkAcha = Math.max(left, right) + root.val; // (2)
+        int onlyRootAcha = root.val; // (3)
+
+        maxSum = Math.max(maxSum, Math.max(neecheHiMilgayaAnswer, Math.max(koiEkAcha, onlyRootAcha)));
+        
+        // Most important part
+        return Math.max(koiEkAcha, onlyRootAcha);
     }
-
-    private int maxPathDown(TreeNode node, int[] maxValue) {
-        if (node == null) return 0;
-
-        int left = Math.max(0, maxPathDown(node.left, maxValue));
-        int right = Math.max(0, maxPathDown(node.right, maxValue));
-
-        maxValue[0] = Math.max(maxValue[0], left + right + node.val);
-
-        return Math.max(left, right) + node.val;
+    
+    public int maxPathSum(TreeNode root) {
+        maxSum = Integer.MIN_VALUE;
+        solve(root);
+        return maxSum;
     }
 }
