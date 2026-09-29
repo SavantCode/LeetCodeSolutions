@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0669-trim-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0669-trim-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
