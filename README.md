@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0835-image-overlap) |
 | [1036-rotting-oranges](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -847,4 +850,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
