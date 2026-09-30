@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0851-loud-and-rich) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1096-brace-expansion-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1096-brace-expansion-ii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0851-loud-and-rich) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1791-find-center-of-star-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
@@ -851,4 +854,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
