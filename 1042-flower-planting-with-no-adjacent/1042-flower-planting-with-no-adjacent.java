@@ -4,13 +4,14 @@ class Solution {
     public int[] gardenNoAdj(int n, int[][] paths) {
         // FIXED: Passed total vertices `n` instead of `paths.length` so memory is allocated for all gardens
         List<List<Integer>> adj = getAdj(paths, n);
+        // we have n gardens means "n" nodes
         
         // FIXED: Added missing semicolon `;` after 4
-        int m = 4; 
+        int m = 4; // flower colors
         
         int[] color = new int[n];
         
-        solve(0, adj, m, color, n);
+        solve(0, adj, m, color, n); // starting with 0th garden
         return color;
     }
 
