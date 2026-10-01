@@ -24,15 +24,15 @@ class Solution {
             }
 
         }
-        for (int i = 0; i < n; i++) {
-            char ch = s.charAt(i);
+        // for (int i = 0; i < n; i++) {
+        //     char ch = s.charAt(i);
 
-            int val = map.get(ch);
-            System.out.print(ch + " ");
-            if (val != 0) {
-                return false;
-            }
-        }
+        //     int val = map.get(ch);
+        //     System.out.print(ch + " ");
+        //     if (val != 0) {
+        //         return false;
+        //     }
+        // }
         return true;
 
     }
