@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0403-frog-jump) |
