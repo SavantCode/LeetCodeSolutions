@@ -1,19 +1,16 @@
+import java.util.HashSet;
+
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        // Step 1: Count frequency of each number
+        HashSet<Integer> seen = new HashSet<>();
+        
         for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
-
-        // Step 2: Directly iterate over map values
-        for (int count : map.values()) {
-            if (count >= 2) {
-                return true; // Found a duplicate
+            // add() returns false if the number is already present
+            if (!seen.add(num)) {
+                return true; // Duplicate found immediately
             }
         }
-
-        return false; // No duplicates found after checking all counts
+        
+        return false;
     }
 }
