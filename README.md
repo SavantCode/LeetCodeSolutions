@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0295-find-median-from-data-stream) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0268-missing-number) |
