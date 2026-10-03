@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0917-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0985-bag-of-tokens) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-soup-servings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0836-rectangle-overlap) |
