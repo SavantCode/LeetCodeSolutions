@@ -1,31 +1,66 @@
 class Solution {
     public int maxProduct(int[] nums) {
         int n = nums.length;
-        if (n == 0) return 0;
+        int leftProduct = 1;
+        int rightProduct = 1;
+        int ans = nums[0];
 
-        int maxSoFar = nums[0];
-        int minSoFar = nums[0];
-        int result = maxSoFar;
+        for (int i = 0; i < n; i++) {
+            // Reset if product becomes 0
+            if (leftProduct == 0) leftProduct = 1;
+            if (rightProduct == 0) rightProduct = 1;
 
-        for (int i = 1; i < n; i++) {
-            int curr = nums[i];
+            leftProduct *= nums[i];
+            rightProduct *= nums[n - 1 - i];
 
-            // If current number is negative, swapping max and min 
-            // accounts for sign reversal
-            if (curr < 0) {
-                int temp = maxSoFar;
-                maxSoFar = minSoFar;
-                minSoFar = temp;
-            }
-
-            // Either extend the previous subarray or start a new subarray at current element
-            maxSoFar = Math.max(curr, maxSoFar * curr);
-            minSoFar = Math.min(curr, minSoFar * curr);
-
-            // Keep track of global maximum product seen so far
-            result = Math.max(result, maxSoFar);
+            ans = Math.max(ans, Math.max(leftProduct, rightProduct));
         }
 
-        return result;
+        return ans;
     }
 }
+
+
+
+
+
+
+// class Solution {
+
+//     public int maxProduct(int[] nums) {
+//         int n = nums.length;
+
+//         // Use long to prevent integer overflow during intermediate multiplications
+//         long leftProduct = 1;  // Tracks running prefix product (left -> right)
+//         long rightProduct = 1; // Tracks running suffix product (right -> left)
+//         long ans = nums[0];    // Stores global maximum product seen so far
+
+//         for (int i = 0; i < n; i++) {
+
+//             // 1. RESET CONDITION:
+//             // If running product hit 0 in previous step (or underflowed), 
+//             // reset it to 1 to start a fresh subarray product.
+//             if (leftProduct == 0 || leftProduct < Integer.MIN_VALUE) {
+//                 leftProduct = 1;
+//             }
+//             if (rightProduct == 0 || rightProduct < Integer.MIN_VALUE) {
+//                 rightProduct = 1;
+//             }
+
+//             // 2. MULTIPLY:
+//             // Include current element in left-to-right prefix product
+//             leftProduct *= nums[i];
+
+//             // Include corresponding element from the back in right-to-left suffix product
+//             rightProduct *= nums[n - 1 - i];
+
+//             // 3. UPDATE MAXIMUM:
+//             // Compare overall answer with both prefix and suffix products
+//             ans = Math.max(ans, Math.max(leftProduct, rightProduct));
+//         }
+
+//         // Cast result back to standard int as per problem signature
+//         return (int) ans;
+//     }
+
+// }
