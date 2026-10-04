@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-distinct-subsequences-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0940-distinct-subsequences-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0917-boats-to-save-people](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0648-replace-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0648-replace-words) |
+| [0678-valid-parenthesis-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -887,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
