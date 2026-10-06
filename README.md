@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0835-image-overlap) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-distinct-subsequences-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0940-distinct-subsequences-ii) |
