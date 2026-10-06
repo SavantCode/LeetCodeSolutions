@@ -1,23 +1,29 @@
-import java.util.Stack;
-
+// Don’t let anyone ruin your day. It’s your day, ruin it yourself.
+//Approach-1 (Using stack or vector as stack)
+//T.C : O(n)
+//S.C : O(n)
 class Solution {
     public int scoreOfParentheses(String s) {
-        Stack<Integer> st = new Stack<>();
-        st.push(0); // Holds the base score at current level
+        int n = s.length();
+        Deque<Integer> stack = new ArrayDeque<>();
 
-        for (char c : s.toCharArray()) {
-            if (c == '(') {
-                st.push(0); // Start a new inner score level
+        int score = 0;
+
+        for (int i = 0; i < n; i++) {
+            char ch = s.charAt(i);
+            if (ch == '(') {
+                stack.push(score);
+                score = 0;
             } else {
-                int v = st.pop(); // Score inside the current parentheses
-                int w = st.pop(); // Score of the outer level before this pair
-                
-                // If v == 0, it was an empty pair "()", so it contributes 1.
-                // Otherwise, it was nested "(A)", so it contributes 2 * v.
-                st.push(w + Math.max(2 * v, 1));
+                if (s.charAt(i - 1) == '(') { // we found innermost "()" -> +1 point
+                    score = stack.peek() + 1;
+                } else {
+                    // had content inside -> double it
+                    score = stack.peek() + (2 * score);
+                }
+                stack.pop();
             }
         }
-
-        return st.pop();
+        return score;
     }
 }
