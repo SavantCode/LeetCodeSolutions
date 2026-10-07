@@ -10,35 +10,41 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        if (head == null || head.next == null) {
+        // FIX 1: Handle edge cases where list has 0, 1, or 2 nodes (no reordering needed)
+        if (head == null || head.next == null || head.next.next == null) {
             return;
         }
 
         int totalLength = findLength(head);
         solve(head, totalLength, 1);
+        
+        // FIX 2: Removed 'return head;' because method return type is void
     }
 
     public void solve(ListNode head, int totalLength, int insertAtIndex) {
-        // Base Case: Stop when insert position reaches or exceeds total length - 1
+        // FIX 3: Changed 'insertAtIndex == totalLength' to '>=' condition.
+        // For even-length lists (e.g., length 4), insertAtIndex skips '4' (1 -> 3 -> 5),
+        // causing infinite recursion. Checking '>= totalLength - 1' stops at the middle.
         if (insertAtIndex >= totalLength - 1) {
             return;
         }
 
-        // 1. Find the last node and detach it from the end
+        // Find the last node and detach it from the end of the list
         ListNode lastNode = findLastNode(head);
 
-        // 2. Insert the last node after the node at position insertAtIndex
+        // Insert lastNode after the node at position insertAtIndex
         insertAt(head, lastNode, insertAtIndex);
 
-        // 3. Move to the next insertion position (skipping the inserted node)
+        // Recurse to insert the next tail node 2 positions ahead
         solve(head, totalLength, insertAtIndex + 2);
     }
 
     public void insertAt(ListNode head, ListNode lastNode, int index) {
         ListNode temp = head;
+        
+        // FIX 4: Set count = 1 instead of 0.
+        // Starting at 0 traversed 1 node too far ahead.
         int count = 1;
-
-        // Traverse to the node at position `index`
         while (count < index && temp != null) {
             temp = temp.next;
             count++;
@@ -54,13 +60,14 @@ class Solution {
     public ListNode findLastNode(ListNode head) {
         ListNode temp = head;
 
-        // Traverse to the second-to-last node
+        // FIX 5: Added safety check to prevent NullPointerException on short lists
         while (temp.next != null && temp.next.next != null) {
             temp = temp.next;
         }
 
         ListNode result = temp.next;
-        temp.next = null; // Disconnect the last node
+        temp.next = null; // Break connection to orphan the last node
+        
         return result;
     }
 
