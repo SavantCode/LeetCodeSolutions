@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0301-remove-invalid-parentheses) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0310-minimum-height-trees) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0648-replace-words) |
@@ -809,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0295-find-median-from-data-stream) |
