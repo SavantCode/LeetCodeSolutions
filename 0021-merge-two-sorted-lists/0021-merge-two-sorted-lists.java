@@ -1,43 +1,44 @@
-import java.util.ArrayList;
-import java.util.Collections;
-
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        // 1. Create an ArrayList to store all the values
-        ArrayList<Integer> nodeVals = new ArrayList<>(); 
+        ListNode temp1 = list1;
+        ListNode temp2 = list2;
+        ListNode head = new ListNode(100); // you created a temporary starting point node value as 100
+        ListNode temp = head;
 
-        // 2. Traverse list1 and collect all values
-        ListNode temp = list1;
-        while (temp != null) { // Fixed: Check if temp itself is null, not temp.next
-            nodeVals.add(temp.val);
-            temp = temp.next;
+        while(temp1 != null && temp2 != null ){
+            if(temp1.val< temp2.val){
+                ListNode a = new ListNode(temp1.val);
+                temp.next = a;
+                temp = a;
+                temp1 = temp1.next;
+            }
+            
+            else{
+                ListNode a = new ListNode(temp2.val);
+                temp.next = a;
+                temp = a;
+                temp2 = temp2.next;
+            }
+            }
+            if(temp1 == null){
+                temp.next = temp2;
+            }
+            else{
+                temp.next = temp1;
+            }
+
+            return head.next;
+
         }
-
-        // 3. Traverse list2 and collect all values
-        temp = list2;
-        while (temp != null) { // Fixed: Removed variable re-declaration error and fixed loop condition
-            nodeVals.add(temp.val);
-            temp = temp.next;
-        }
-
-        // Edge Case: If both lists were empty
-        if (nodeVals.isEmpty()) {
-            return null;
-        }
-
-        // 4. Crucial Step: Sort the collected values to merge them in order
-        Collections.sort(nodeVals);
-
-        // 5. Rebuild the linked list from the sorted array
-        ListNode head = new ListNode(nodeVals.get(0)); // Fixed: Instantiate a new ListNode object
-        temp = head;
-
-        for (int i = 1; i < nodeVals.size(); i++) {
-            ListNode curr = new ListNode(nodeVals.get(i)); // Fixed: Create a new node with the integer value
-            temp.next = curr;
-            temp = curr;
-        }
-
-        return head;
+        
     }
-}
