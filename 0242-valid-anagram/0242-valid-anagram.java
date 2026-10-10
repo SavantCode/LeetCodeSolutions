@@ -1,39 +1,32 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-
-        if (s.length() != t.length())
+        // If lengths differ, they can't be anagrams
+        if (s.length() != t.length()) {
             return false;
-        HashMap<Character, Integer> map = new HashMap<>();
-
-        int n = s.length();
-
-        for (int i = 0; i < n; i++) {
-            char ch = s.charAt(i);
-
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
+        int[] letters = new int[26];
+
+        // Increment count for string s
+        char[] str = s.toCharArray();
+        for (int i = 0; i < str.length; i++) {
+            int curr = str[i] - 'a';
+            letters[curr]++;
+        }
+
+        // Decrement count for string t
         for (int i = 0; i < t.length(); i++) {
-
-            char currChar = t.charAt(i);
-
-            if (map.containsKey(currChar) && map.get(currChar) > 0) {
-                map.put(currChar, map.get(currChar) - 1);
-            } else {
-                return false; // Character missing from 's' or frequency exceeded
-            }
-
+            int curr = t.charAt(i) - 'a';
+            letters[curr]--;
         }
-        // for (int i = 0; i < n; i++) {
-        //     char ch = s.charAt(i);
 
-        //     int val = map.get(ch);
-        //     System.out.print(ch + " ");
-        //     if (val != 0) {
-        //         return false;
-        //     }
-        // }
+        // Verify all character frequency counts are zero
+        for (int count : letters) {
+            if (count != 0) {
+                return false;
+            }
+        }
+
         return true;
-
     }
 }
