@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3194-find-words-containing-character](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -971,4 +974,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
