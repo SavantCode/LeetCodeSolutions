@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0437-path-sum-iii) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0310-minimum-height-trees) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0437-path-sum-iii) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
