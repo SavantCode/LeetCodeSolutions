@@ -8,17 +8,23 @@ class Solution {
             freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
         }
 
-        // Step 2: Put entries into a PriorityQueue (Max-Heap) sorted by frequency in descending order
-        PriorityQueue<Map.Entry<Integer, Integer>> maxHeap = new PriorityQueue<>(
-            (a, b) -> b.getValue().compareTo(a.getValue())
+        // Step 2: Create a Min-Heap sorted by frequency in ascending order
+        PriorityQueue<Map.Entry<Integer, Integer>> minHeap = new PriorityQueue<>(
+            (a, b) -> a.getValue().compareTo(b.getValue())
         );
 
-        maxHeap.addAll(freqMap.entrySet());
+        // Step 3: Maintain only the top k elements in the min-heap
+        for (Map.Entry<Integer, Integer> entry : freqMap.entrySet()) {
+            minHeap.offer(entry);
+            if (minHeap.size() > k) {
+                minHeap.poll(); // Removes the element with the smallest frequency
+            }
+        }
 
-        // Step 3: Extract the top k elements from the heap
+        // Step 4: Extract the elements from the heap into the result array
         int[] result = new int[k];
-        for (int i = 0; i < k; i++) {
-            result[i] = maxHeap.poll().getKey();
+        for (int i = k - 1; i >= 0; i--) {
+            result[i] = minHeap.poll().getKey();
         }
 
         return result;
