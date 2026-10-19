@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2169-simple-bank-system) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2479-meeting-rooms-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
