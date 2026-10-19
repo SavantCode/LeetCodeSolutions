@@ -1,21 +1,19 @@
 class Solution {
-
     public List<Integer> targetIndices(int[] nums, int target) {
-        int cnt1 = 0; // Number of elements less than target
-        int cnt2 = 0; // Number of elements equal to target
+        
+        List<Integer> result = new LinkedList<>(); // because insertion is faster in linkedlist
 
-        for (int num : nums) {
-            if (num < target) {
-                cnt1++;
-            } else if (num == target) {
-                cnt2++;
+        int n = nums.length;
+        Arrays.sort(nums);
+
+        for(int i = 0;i < n; i++){
+
+            if(nums[i] == target){
+                result.add(i);
             }
         }
 
-        List<Integer> res = new ArrayList<>();
-        for (int i = cnt1; i < cnt1 + cnt2; i++) {
-            res.add(i);
-        }
-        return res;
+        Collections.sort(result);
+        return result;
     }
 }
