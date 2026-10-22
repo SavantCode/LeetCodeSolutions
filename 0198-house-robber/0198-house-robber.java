@@ -1,29 +1,24 @@
-import java.util.Arrays;
-
 class Solution {
     public int rob(int[] nums) {
-        int n = nums.length;
-        int dp[] = new int[n];
-        Arrays.fill(dp, -1);
+        int dp[] = new int[101];
 
-        return solve(0, nums, n, dp);
+        Arrays.fill(dp, -1);
+        int n = nums.length;
+        return solve(0, n, nums, dp);
     }
 
-    int solve(int idx, int[] nums, int n, int dp[]) {
-        if (idx >= n) {
-            return 0; // No more houses to rob, so 0 money added
+    public int solve(int house, int n, int[] nums, int[] dp) {
+        if (house >= n) {
+            return 0;
         }
+        if(dp[house] != -1){
+            return dp[house];
+        };
 
-        if (dp[idx] != -1) {
-            return dp[idx];
-        }
+        int take = nums[house] + solve(house + 2, n, nums, dp);
 
-        // Take: rob current house + solve for idx + 2
-        int take = nums[idx] + solve(idx + 2, nums, n, dp);
+        int notTake = solve(house + 1, n, nums, dp);
 
-        // Not take: skip current house + solve for idx + 1
-        int notTake = solve(idx + 1, nums, n, dp);
-
-        return dp[idx] = Math.max(take, notTake);
+        return dp[house] =  Math.max(take, notTake);
     }
 }
