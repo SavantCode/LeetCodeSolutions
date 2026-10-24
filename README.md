@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2409-count-days-spent-together](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2481-strictly-palindromic-number](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
