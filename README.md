@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Hash Table
 |  |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Combinatorics
@@ -976,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
