@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
+| [1882-process-tasks-using-servers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1882-process-tasks-using-servers) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
+| [1882-process-tasks-using-servers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1882-process-tasks-using-servers) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2479-meeting-rooms-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2479-meeting-rooms-iii) |
