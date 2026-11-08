@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1267-count-servers-that-communicate](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0851-loud-and-rich) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1267-count-servers-that-communicate](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1096-brace-expansion-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -771,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0835-image-overlap) |
 | [1036-rotting-oranges](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -1013,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/SavantCode/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+| [1267-count-servers-that-communicate](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bellman–Ford Algorithm
