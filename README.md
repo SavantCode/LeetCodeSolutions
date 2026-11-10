@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3665-twisted-mirror-path-count](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3524-find-x-value-of-array-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3665-twisted-mirror-path-count](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3693-climbing-stairs-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
