@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3376-longest-common-suffix-queries](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3376-longest-common-suffix-queries) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -898,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2747-count-zero-request-servers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SavantCode/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
