@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3376-longest-common-suffix-queries](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3376-longest-common-suffix-queries) |
