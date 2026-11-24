@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3376-longest-common-suffix-queries](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3376-longest-common-suffix-queries) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3336-water-bottles-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3886-sum-of-sortable-integers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3886-sum-of-sortable-integers) |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2747-count-zero-request-servers](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1024,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SavantCode/LeetCodeSolutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SavantCode/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
